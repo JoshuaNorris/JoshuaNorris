@@ -9,7 +9,7 @@ I am a persistent learner with a knack for mastering hard things. I aspire to br
 * 🌍  I'm based in Conway, Arkansas
 * ✉️  You can contact me at [joshua.norris52@gmail.com](mailto:joshua.norris52@gmail.com)
 * 🚀  I'm currently working on [ZTM Web Dev and .Net deep dive](http://zerotomastery.io/)
-* 🧠  I'm learning .Net, C#, Http, CSS, Javascript
+* 🧠  I'm learning .Net, C#, Javascript
 
 ### Skills
 
