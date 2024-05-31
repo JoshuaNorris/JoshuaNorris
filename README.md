@@ -8,9 +8,8 @@ I am a persistent learner with a knack for mastering hard things. I aspire to br
 
 * 🌍  I'm based in Conway, Arkansas
 * ✉️  You can contact me at [joshua.norris52@gmail.com](mailto:joshua.norris52@gmail.com)
-* 🚀  I'm currently working on [A Notion Clone Project, AWS Cloud Practitioner Certification](http://github.com/JoshuaNorris/Notion-Clone)
-* 🧠  I'm learning Backend Development + Algorithmic analysis (understand one algorithm topic --> two more take its place)
-
+* 🚀  I'm currently working on [a Mendix Developer Internship](https://www.mendix.com/) and a .NET and React Web Application as a freelancer.
+* 🧠  I'm learning Application and Database Design, and the joys of .NET and backend development
 ### Skills
 
 
