@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a persistent learner with a knack for mastering hard things. I aspire to bring great value to a team that will be my starting point for career in software.
+Coding 'n such.
 
-* 🌍  I'm based in Conway, Arkansas
+* 🌍  I'm based in Oklahoma City
 * ✉️  You can contact me at [joshua.norris52@gmail.com](mailto:joshua.norris52@gmail.com)
-* 🚀  I'm currently working on [a Mendix Developer Internship](https://www.mendix.com/) and a .NET and React Web Application as a freelancer.
-* 🧠  I'm learning Application and Database Design, and the joys of .NET and backend development
+* 🚀  I'm currently working as a Backend Developer at Hobby Lobby on their Ecommerce website, using Java/Spring in a microservices architecture with a really great team.
+* 🧠  I'm learning React in my freetime, cause for now I'm about the full-stack vibe.
 ### Skills
 
 
