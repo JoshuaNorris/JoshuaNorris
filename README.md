@@ -9,8 +9,7 @@ coding 'n such
 * 🌍  I'm based in Oklahoma City
 * ✉️  You can contact me at [joshua.norris52@gmail.com](mailto:joshua.norris52@gmail.com)
 * 🚀  I'm currently working on [Hobby Lobby's Ecommerce platform in a really great team as a Backend Dev using Java/Spring.](http://www.hobbylobby.com/)
-* 🧠  I'm learning React, cause I'm currently all about the full-stack vibes.
-* ⚡  Rust and Haskell Programmers are my heroes.
+* 🧠  I'm learning about FE Development (React + Typescript) and Functional Programming (using Haskell)
 
 ### Skills
 
